@@ -1,0 +1,4 @@
+weaviate-client
+pandas
+tqdm
+ollama
